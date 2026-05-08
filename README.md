@@ -1,35 +1,66 @@
-# Victor Hugo Santos de Jesus
+<div align="center">
 
-Desenvolvedor focado em automação, IA aplicada e soluções web, com foco em transformar processos em produtos funcionais e bem documentados.
+# Victor Hugo 👋
+
+**Desenvolvedor de Automação & IA | Criador de Conteúdo | Builder**
+
+[![Website](https://img.shields.io/badge/vant.business-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://vant-business-rust.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-hugos)
+
+</div>
+
+---
 
 ## Sobre mim
-Atuo na criação de soluções digitais com foco em eficiência operacional, organização de fluxo e experiência prática de uso.  
-Tenho perfil hands-on, orientado a resultado, e priorizo entregas claras para negócio e time técnico.
 
-## Stack principal
-- JavaScript / TypeScript
-- React / Next.js
-- Node.js
-- Python / FastAPI
-- Supabase
-- Git / GitHub
+Sou desenvolvedor focado em **automação**, **inteligência artificial** e **sistemas de integração**. Construo ferramentas que eliminam trabalho repetitivo e criam oportunidades reais de monetização para negócios digitais.
+
+Fundador do **[Vant Business](https://vant-business-rust.vercel.app)** — hub de ferramentas de IA, tutoriais e automações para empreendedores digitais.
+
+---
+
+## Tech Stack
+
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frameworks & Ferramentas**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00A0DF?style=flat-square&logo=mulesoft&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
 
 ## Projetos em destaque
-- [INSISINT](https://github.com/victor-hugos/INSISINT)  
-  Copiloto com IA para planejamento e execução de conteúdo, com onboarding, geração de ideias, calendário e dashboard.
 
-- [Certifica-Monstros](https://github.com/victor-hugos/Certifica-Monstros)  
-  Plataforma de estudos com módulos, provas e simulados, com backend FastAPI e persistência em Supabase.
+| Projeto | Descrição | Tech |
+|---------|-----------|------|
+| [🚀 Vant Business](https://github.com/victor-hugos/vant-business) | Hub de ferramentas de IA com blog, email capture e painel admin | React, Vite, Supabase |
+| [⚡ LeadFlow Automation](https://github.com/victor-hugos/leadflow-automation) | Sistema de automação de leads com deduplicação e scoring | Python, SQLite |
+| [🔗 MuleSoft Integration](https://github.com/victor-hugos/mulesoft-integration-project) | Módulo de integração e cadastro de sistemas | MuleSoft, Java |
+| [🎯 INSISINT](https://github.com/victor-hugos/INSISINT) | Sistema de inteligência e integração | Python |
 
-- [FABRICA-DE-MONSTROS](https://github.com/victor-hugos/FABRICA-DE-MONSTROS)  
-  Base de gestão, trilhas e organização de execução de projetos colaborativos.
+---
 
-- [project-mulesoft](https://github.com/victor-hugos/project-mulesoft)  
-  Repositório de estudos e aplicação prática em integração e automação com MuleSoft.
+## O que estou construindo
 
-## Objetivo profissional
-Busco oportunidades para atuar em desenvolvimento de software e automação, contribuindo com construção de produtos confiáveis, escaláveis e orientados a impacto real.
+- 🤖 **Agentes de IA** para automação de processos
+- 📊 **Sistemas de lead capture** sem dependência de terceiros
+- 🎬 **Conteúdo sobre IA** no TikTok e YouTube
+- 💡 **Ferramentas SaaS** para operadores digitais
 
-## Contato
-- LinkedIn: https://www.linkedin.com/in/victor-hugos/
-- Email: victor.hsj5133@gmail.com
+---
+
+<div align="center">
+
+**"Automatize o que é repetitivo. Crie o que tem valor."**
+
+[![Vant Business](https://img.shields.io/badge/Conheça_o_Vant_Business-8B5CF6?style=for-the-badge)](https://vant-business-rust.vercel.app)
+
+</div>
